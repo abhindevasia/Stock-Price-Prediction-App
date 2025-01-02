@@ -1,5 +1,6 @@
 # Stock Price Prediction App
-
+the resulting app interface can be viewed here:
+https://stock-price-prediction-app-9bh4hrnkuumqgztjaq3zro.streamlit.app/
 ## Overview
 This repository contains an interactive application for predicting stock prices using an LSTM (Long Short-Term Memory) deep learning model. The application is built with Streamlit for ease of use and includes a trained model, sample data, and supporting scripts for seamless deployment.
 
