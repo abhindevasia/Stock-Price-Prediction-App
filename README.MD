@@ -53,6 +53,11 @@ The project dependencies are listed in `requirements.txt`. Key packages include:
 - **Training**: The model was trained on historical stock price data with preprocessed features for optimal performance.
 - **File**: The pre-trained model is stored as `lstm_stock_price_model.keras` and is loaded during app initialization.
 
+## Application Overview  
+Link:
+https://stock-price-prediction-app-9bh4hrnkuumqgztjaq3zro.streamlit.app/
+![Dashboard Screenshot](images/app_screenshot.png)  
+
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests for:
 - Bug fixes
