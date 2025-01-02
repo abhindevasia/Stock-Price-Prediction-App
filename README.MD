@@ -13,7 +13,7 @@ This repository contains an interactive application for predicting stock prices 
 - **`app.py`**: Streamlit application script for running the web interface.
 - **`lstm_stock_price_model.keras`**: Pre-trained LSTM model for stock price prediction.
 - **`market_data.csv`**: Sample dataset containing historical market data for testing.
-- **`part_1_model_building.ipynb`**: Jupyter notebook detailing the model building and training process.
+- **`model_building.ipynb`**: Jupyter notebook detailing the model building and training process.
 
 ## Installation
 To run this project locally, follow these steps:
